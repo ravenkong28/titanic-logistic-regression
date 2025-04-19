@@ -52,9 +52,11 @@ The performance of the Logistic Regression model in RapidMiner is summarized bel
 Using **scikit-learn** in Python, the Logistic Regression model achieved slightly better performance. Here's the **confusion matrix** and **accuracy score**:
 
 ![Python Confusion Matrix](/images/Gambar3.png)
+
 ![Python Accuracy](/images/Gambar5.png)
 
 Here's the **classificatin report** :
+
 ![Classification Report](/images/Gambar4.png)
 
 ---
@@ -71,7 +73,7 @@ The feature weights from Logistic Regression by Python helped in understanding w
 
 The feature weights from Logistic Regression by Python can also be helped in understanding which pair variables were most influential in predicting survival by using correlation heatmap:
 
-![Feature Importance](/images/Gambar7.png)
+![Correlation Heatmap Matrix](/images/Gambar7.png)
 
 ---
 
